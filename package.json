@@ -1,0 +1,26 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/keerthika-srinivasan/nodejspractice#readme",
+  "bugs": {
+    "url": "https://github.com/keerthika-srinivasan/nodejspractice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthika-srinivasan/nodejspractice.git"
+  },
+  "license": "ISC",
+  "author": "keerthika",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
